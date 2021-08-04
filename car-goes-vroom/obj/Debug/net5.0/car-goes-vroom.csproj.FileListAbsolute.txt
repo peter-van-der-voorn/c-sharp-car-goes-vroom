@@ -1,0 +1,15 @@
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/bin/Debug/net5.0/car-goes-vroom.deps.json
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/bin/Debug/net5.0/car-goes-vroom.runtimeconfig.json
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/bin/Debug/net5.0/car-goes-vroom.runtimeconfig.dev.json
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/bin/Debug/net5.0/car-goes-vroom.dll
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/bin/Debug/net5.0/ref/car-goes-vroom.dll
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/bin/Debug/net5.0/car-goes-vroom.pdb
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/obj/Debug/net5.0/car-goes-vroom.csproj.AssemblyReference.cache
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/obj/Debug/net5.0/car-goes-vroom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/obj/Debug/net5.0/car-goes-vroom.AssemblyInfoInputs.cache
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/obj/Debug/net5.0/car-goes-vroom.AssemblyInfo.cs
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/obj/Debug/net5.0/car-goes-vroom.csproj.CoreCompileInputs.cache
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/obj/Debug/net5.0/car-goes-vroom.dll
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/obj/Debug/net5.0/ref/car-goes-vroom.dll
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/obj/Debug/net5.0/car-goes-vroom.pdb
+/Users/petervandervoorn/Projects/c-sharp-car-goes-vroom/car-goes-vroom/obj/Debug/net5.0/car-goes-vroom.genruntimeconfig.cache

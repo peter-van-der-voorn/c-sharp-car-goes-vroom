@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "car-goes-vroom/1.0.0": {
+        "runtime": {
+          "car-goes-vroom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "car-goes-vroom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
